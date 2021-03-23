@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="app.css">
+    <title>Imersao Dev - Conversor de Moedas</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="page-title">
+            Conversor de Moedas
+        </h1>
+        <p class="subtitle">
+            Descubra aqui o valor em real R$
+        </p>
+
+        <p class="conversor">
+            <label for="valor">Digite o valor:</label>
+            <input id='valor' class="valor" type="number">
+            <select name="moeda" id="moeda" class='select'>
+                <option value="dolar">U$</option>
+                <option value="euro">€</option>
+            </select>
+
+            <button onclick="converter()" class='botao'>Converter</button>
+        </p>
+
+        <br>
+
+        <p id='resultado'> </p>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+
+</html>
