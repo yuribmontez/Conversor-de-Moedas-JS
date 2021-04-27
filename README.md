@@ -1,8 +1,6 @@
 # Sobre
 
-Este <a href="https://yuribmontez.github.io/Currency-ExchangeJS">app</a> foi criado usando JavaScript e é capaz de converter dolar e euro para real.
-
-<br>
+Este <a href="https://yuribmontez.github.io/Currency-ExchangeJS">app</a> foi criado usando JavaScript e é capaz de converter dolar e euro para real.<br>
 
 Este projeto foi criado durante a segunda edição da - Imersão_Dev - by [Alura](https://www.alura.com.br)
 
