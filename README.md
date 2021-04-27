@@ -4,6 +4,8 @@ Este <a href="https://yuribmontez.github.io/Currency-ExchangeJS">app</a> foi cri
 
 Este projeto foi criado durante a segunda edição da - Imersão_Dev - by [Alura](https://www.alura.com.br)
 
-![conversor](https://user-images.githubusercontent.com/77989191/112218892-116bcc80-8c03-11eb-8fa8-5635e4575f49.PNG)
+
+![currency exchange](https://user-images.githubusercontent.com/77989191/116176244-38c52600-a6e8-11eb-9820-bd602dac2c99.gif)
+
 
 
